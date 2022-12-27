@@ -1,2 +1,2 @@
-# random-qoute
+# Random-Qoute
 Random-Qoute-A-Day
